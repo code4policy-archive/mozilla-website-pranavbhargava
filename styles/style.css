@@ -10,15 +10,3 @@ html {
   background-color: #00539F;
 }
 
-/* Adding font size, text alignment, color, margin, shadow for the heading */
-h1 {
-  font-size: 60px;
-  text-align: center;
-}
-
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
-}
